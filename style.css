@@ -1,0 +1,41 @@
+li{
+    color:burlywood;
+}
+nav{
+    background-color: beige;
+;}
+.list{
+    list-style: none;
+    /*margin-right:  400px;*/
+    font-size: 50px;
+   
+}
+ul{
+    display: flex;
+    /*margin-left: 100px;*/
+    justify-content: space-around;
+    
+}
+p{
+    color: blue;
+   font-size: 25px;
+  margin: 30px;
+
+
+}
+#imgcss{
+ 
+width: 50%;
+margin-left: 25%;
+    
+}
+#csss{
+    width: 50%;
+    margin-left: 25%;
+    height: auto;
+}
+video{
+    width: 1500px;
+    height: 500px;
+
+}
